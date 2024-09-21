@@ -12,8 +12,7 @@ The Hotel Booking Reservation System is designed to provide an efficient platfor
 
 ## C. Project Objectives:
 
-To develop a SYSTEM_NAME APP that will help manage the ______ with the following features:
-Develop [System Name] to help manage hotel reservations and customer service, with the following features:
+To develop a HOTEL BOOKING SYSTEM that will help manage hotel reservations and customer service with the following features:
 
 User-friendly booking interface: Allows customers to easily search for and reserve available rooms.
 Real-time availability tracking: Helps hotel staff track room availability, preventing overbooking.
